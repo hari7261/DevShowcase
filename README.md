@@ -78,7 +78,7 @@ Have a question or want to work together? Feel free to drop a message using the 
 |------------------|--------------------------------|
 | 🐦 **Twitter**    | [TwitterHandle](https://twitter.com/Hari_Om_Pandit) |
 | 💻 **LinkedIn**   | [LinkedInProfile](https://linkedin.com/) |
-| 💌 **Website**      | [Website](hariompandit.me)         |
+| 💌 **Website**      | [Website](https://www.hariompandit.me/home)         |
 
 ---
 
